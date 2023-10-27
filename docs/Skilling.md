@@ -1,0 +1,1 @@
+- Tata Motors to reskill 50% staff by 2027 to manufacture EVs

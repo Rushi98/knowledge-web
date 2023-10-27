@@ -1,0 +1,1 @@
+[[Mahalanobis, P C|Mahalanobis]] model - two sector model

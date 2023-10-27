@@ -1,0 +1,1 @@
+- Involving fitness influencer Ankit Baiyanpuria in the cleanliness drive.

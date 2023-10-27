@@ -1,0 +1,1 @@
+to control [[Foot & Mouth Disease]] (FMD) and [[Brucellosis]] by vaccinating livestock

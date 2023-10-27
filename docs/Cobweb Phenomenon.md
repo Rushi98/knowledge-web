@@ -1,0 +1,2 @@
+- on price fluctuation
+- price fluctuations can lead to fluctuations in supply, which causes a cycle of raising and falling prices

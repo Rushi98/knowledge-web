@@ -1,0 +1,1 @@
+$$\sum(\vec{F}-m\dot{\vec{v}}-\dot{m}\vec{v})\cdot \delta \vec{r}=0$$

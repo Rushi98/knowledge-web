@@ -1,0 +1,1 @@
+divorcee/widow women of 35-45 can opt for surrogacy; unmarried women can't

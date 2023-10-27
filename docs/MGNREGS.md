@@ -1,0 +1,3 @@
+- October 2023 - Scheme running deficit of ₹6000 Cr
+- Budget sanctioned was 33% lower than FY 2022-23.
+- Finance Minister Nirma­la Sitharaman had stated that the MGNREGS is a **de­mand ­driven scheme** and supplementary budget will be made available whenever the need arises.

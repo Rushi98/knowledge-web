@@ -1,0 +1,1 @@
+- no family pension even if died on battlefield

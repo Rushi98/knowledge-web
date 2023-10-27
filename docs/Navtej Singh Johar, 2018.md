@@ -1,0 +1,1 @@
+ struck down [[Indian Penal Code#377 Unnatural offences]] to the extent that it criminalised same-sex relations between consenting adult

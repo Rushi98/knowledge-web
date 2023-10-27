@@ -1,0 +1,4 @@
+- country-wide searchable database of crime- and criminal-related fingerprints
+- assigns a unique 10-digit **National Fingerprint Number** (NFN) to each person arrested for a crime
+	- used for the person’s lifetime
+	- different crimes registered under different FIRs will be linked to the same NFN

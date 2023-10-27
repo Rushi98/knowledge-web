@@ -1,0 +1,2 @@
+# Corruption
+- Helping inmates run their illicit business activities from prison cell. Ex.- Economic Offences Wing (EOW) to launch an investi­gation against eight prison officers accused of helping 'conman' Sukesh Chandrasekhar run an organised crime syndicate from Rohi­ni jail.

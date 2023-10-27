@@ -1,0 +1,3 @@
+- supported Indira during emergency ([[ADM Jabalpur v. Shivkant Shukla]]), criticised her in Janata party government, again backed when Indira was re-elected
+- Bhagwati was criticized for these change of stands, favouring the ruling government, which were deemed as to have been taken to better his career prospects.
+- Bhagwati later in 2011 agreed with popular opinion that this judgement was short-sighted and apologised.

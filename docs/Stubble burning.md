@@ -1,0 +1,1 @@
+- Farmers - without a viable alter­native, or financial incentive, have no option but to continue with the status quo

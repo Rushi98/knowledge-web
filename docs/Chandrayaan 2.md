@@ -1,0 +1,4 @@
+- understood the causes of failure - at least 5 different events
+- devised more rigorous tests
+- worked on alternate scenarios, paths - redundancies 
+- provided images of the surface that were used to recognise larger landing zone for [[Chandrayaan 3]].

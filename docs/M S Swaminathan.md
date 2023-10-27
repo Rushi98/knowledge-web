@@ -1,0 +1,12 @@
+- foresight - food deficit country - self sufficient
+- Five decades after the Green Revolution began, Indian agriculture has become far more modern and progressive. But, the very foundations laid by Professor Swaminathan can never be forgotten.
+- pioneering research in combatting parasites affecting potato crop, enabled potato withstand cold weather
+- *Kisan Vaigyanik* - Farmers' scientist
+- His work narrowed the gap between scientific knowledge and its practical application.
+- When he won the World Food Prize in 1987, the first recipient of this prestigious honour, he used the prize money to establish a not-for-profit research foundation.
+- Institution builder -
+	- Director, International Rice Research Institute, Manila
+	- South Asia Regional Centre of International Rice Research Institute
+# C4 pathway - C4 rice plant
+- higher water efficiency - used by 3% plants
+- Swaminathan developed rice varieties that used this pathway

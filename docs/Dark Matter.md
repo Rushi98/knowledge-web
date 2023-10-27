@@ -1,0 +1,1 @@
+does not interact with electromagnetic field

@@ -1,0 +1,5 @@
+# Quotes
+>[!George Santayana]
+>Those who cannot remember the past are condemned to repeat it.
+
+> During the [[Cuban Missile Crisis]] in 1962, President [[John F. Kennedy]]'s advisors debated whether to respond to Soviet missiles in Cuba with military force. One advisor, Arthur Schlesinger Jr., recalled the similar dilemma faced by President [[Abraham Lincoln]] during the Trent Affair in 1861. The Trent Affair was significant in that the US diplomats were able to avoid a war with Great Britain while fighting the [[American Civil War|Civil War]] against the Confederacy, and additionally convince Great Britain to remain a neutral party in the war. In both instances, leaders grappled with the risk of war with a major power. Kennedy, influenced by this historical rhyme, chose a diplomatic solution. This avoidance of conflict exemplified how history doesn't repeat itself precisely but can provide valuable lessons for navigating contemporary crises.

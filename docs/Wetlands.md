@@ -1,0 +1,2 @@
+- [NGT tells M.P. govt. to stop motorised boats, cruise in wetlands](https://www.thehindu.com/todays-paper/tp-national/tp-otherstates/very-drastic-damage-ngt-tells-mp-govt-to-stop-cruise-motorised-boats-in-wetlands/article67300195.ece)
+- 

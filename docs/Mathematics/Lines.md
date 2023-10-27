@@ -1,0 +1,1 @@
+Two lines $ul+vm+wn=0$ and $al^2+bm^2+cn^2=0$ are perpendicular if $u^2(b+c)+v^2(c+a)+w^2(a+b)=0$.

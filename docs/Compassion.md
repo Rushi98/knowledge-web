@@ -1,0 +1,1 @@
+alleviate others' suffering by understanding + taking actions

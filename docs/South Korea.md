@@ -1,0 +1,1 @@
+- [South Korea keen on joining Quad, talks on upgrading CEPA underway: envoy](https://www.thehindu.com/news/national/south-korea-keen-on-joining-quad-talks-on-upgrading-cepa-underway-envoy/article67299760.ece)

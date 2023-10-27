@@ -1,0 +1,1 @@
+accumulation of unconsolidated debris (regolith and rock), sometimes referred to as glacial till, that occurs in both currently and formerly glaciated regions, and that has been previously carried along by a glacier or ice sheet.

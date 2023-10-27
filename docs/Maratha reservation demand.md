@@ -1,0 +1,3 @@
+- granting Kunbi caste certificates to all Marathas in order to avail of benefits enjoyed by the Other Backward Classes.
+- raising 50% cap on reservations
+- an activist resorted to suicide in Mumbai

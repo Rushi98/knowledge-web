@@ -1,0 +1,1 @@
+A unique identifier used to locate a resource on the Internet. Also referred to as a web address.

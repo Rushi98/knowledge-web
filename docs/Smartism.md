@@ -1,0 +1,3 @@
+- [[Adi Shankaracharya]]
+- reduce conflict among Hindu Sects
+- 5 gods - Vishnu, Shiva, Shakti, Surya, Ganesha

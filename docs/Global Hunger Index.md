@@ -1,0 +1,4 @@
+- 2023 
+	- Rank 111
+	- GHI Score 28.7 (0 Best - 100 Worst) - serious hunger
+- Union government - flawed methodology

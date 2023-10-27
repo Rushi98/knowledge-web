@@ -1,0 +1,2 @@
+- South Indian States reduced their population by scientific means whereas North Indian States in general and States such as Uttar Pradesh and Bihar in particular have failed to do so. The South Indian States have raised concerns about this proposed delimitation. 
+- 

@@ -1,0 +1,2 @@
+HTTPS [[Uniform Resource Locator|URLs]] begin with `https://`, whereas, HTTPS [[Uniform Resource Locator|URLs]] begin with `http://`.
+HTTP, unlike HTTPS, is not encrypted and thus is vulnerable to the "Man in the middle" and eavesdropping attacks. These attacks can let attackers gain access to website accounts and sensitive information, and modify webpages to inject [[Malwares|malware]] or advertisements.

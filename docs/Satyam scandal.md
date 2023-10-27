@@ -1,0 +1,1 @@
+The Satyam Computer Services scandal was India's largest corporate fraud until 2010. The founder and directors of India-based outsourcing company Satyam Computer Services, falsified the accounts, inflated the share price, and stole large sums from the company.

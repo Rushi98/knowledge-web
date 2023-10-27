@@ -1,0 +1,2 @@
+requires state government employees to care for their dependent parents and unmarried, differently-abled siblings
+If an employee is found not taking care of their dependent parents, they will face a deduction from their pay

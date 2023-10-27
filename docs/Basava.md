@@ -1,0 +1,2 @@
+- Lingayat
+- Vachna Sahitya in [[Kannada]]

@@ -1,0 +1,14 @@
+- [[8th Century]]
+- [[Advaita Vedanta]]
+- [[Smartism]]
+- mutts - revival of Hinduism
+	- [[Joshimath]]
+	- [[Puri]]
+	- [[Dwarka]]
+	- [[Shringeri]]
+- Commentaries on [[Upanishadas]], [[Bhagvad Gita]] - understandable for masses
+- rational ground for social reformers of 18th Century
+# Criticism
+- [[Dvaita Vedanta]] of [[Madhavacharya]]
+- took away concepts of [[Buddhism]] - diminished uniqueness - lead to [[Buddhism#Downfall|the downfall of Buddhism]].
+- limited success - India divided house in face of external invasions

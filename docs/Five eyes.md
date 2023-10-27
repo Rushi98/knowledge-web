@@ -1,0 +1,3 @@
+- intelligence alliance comprising [[United States of America]], [[Canada]], [[United Kingdom]], [[New Zealand]], [[Australia]]
+- Snowden leaks - supranational intelligence organisation that doesn’t answer to the laws of its own countries
+- no domestic legislations governing intelligence-sharing - hence arrangements lack legal basis and democratic legitimacy

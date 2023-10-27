@@ -1,0 +1,5 @@
+- auxiliary military organisation of part-time volunteers
+- constituted by the Territorial Army Act of 1948
+- 60 units - 14 in counter-insurgency duties, 2 on the Andaman and Nicobar islands
+- departmental TA battalions funded by Ministries of Environment and Forests, Jal Shakti, Railway, Petroleum
+- deployed to support the Army as part of [[Operation Snow Leopard]] in 2020 standoff with China

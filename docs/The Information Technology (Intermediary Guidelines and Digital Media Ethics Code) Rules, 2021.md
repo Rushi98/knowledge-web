@@ -1,0 +1,9 @@
+# 3. Due diligence by an intermediary
+(1) 
+(d) order by a court of competent jurisdiction or on being notified by the Appropriate Government or its agency ... shall not host, store or publish any unlawful information
+# 4. Additional due diligence to be observed by significant social media intermediary.
+## (4) deploy technology-based measures
+including automated tools or other mechanisms to proactively identify information that depicts any act or simulation in any form depicting rape, child sexual abuse or conduct, whether explicit or implicit, or any information which is exactly identical in content to information **that has previously been removed** or access to which has been disabled on the computer resource of such intermediary under clause (d) of sub-rule (1) of rule 3, and shall display a notice to any user attempting to access such information stating that such information has been identified by the intermediary under the categories referred to in this sub-rule:
+*Provided that* the measures taken by the intermediary under this sub-rule shall be proportionate having regard to the interests of free speech and expression, privacy of users on the computer resource of such intermediary, including interests protected through the appropriate use of technical measures:
+*Provided further that* such intermediary shall implement mechanisms for appropriate human oversight of measures deployed under this sub-rule, including a periodic review of any automated tools deployed by such intermediary:
+*Provided also that* the review of automated tools under this sub-rule shall evaluate the automated tools having regard to the accuracy and fairness of such tools, the propensity of bias and discrimination in such tools and the impact on privacy and security of such tools

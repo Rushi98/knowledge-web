@@ -1,0 +1,4 @@
+- Men consistently earn more than women in all forms of work, with the greatest gender gap observed among self-employed individuals.
+- The gender gap in earnings has increased for self-employed workers but decreased for regular wage workers.
+- women, on average, work fewer hours than men, with the largest gap in self-employment: women jobs are part-time
+- Inequality in hourly earnings remains higher in other forms of work, such as casual labor and self-employment

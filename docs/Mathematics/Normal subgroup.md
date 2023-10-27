@@ -1,0 +1,1 @@
+$$N\triangleleft G: \forall g\in G\quad gNg^{-1}=N$$

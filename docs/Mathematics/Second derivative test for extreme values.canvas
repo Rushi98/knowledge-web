@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c8b6573c038530e5","type":"text","text":"$$D=0$$no conclusion","x":-240,"y":0,"width":160,"height":100},
+		{"id":"4e92e6e610b1bba8","type":"text","text":"$$D>0$$","x":-40,"y":0,"width":140,"height":100},
+		{"id":"d92e55c79a91970e","type":"text","text":"$$f_{xx}<0$$ Maxima","x":-140,"y":160,"width":140,"height":100},
+		{"id":"6bb50a236c8ad6e3","type":"text","text":"$$f_{xx}<0$$ Maxima","x":60,"y":160,"width":140,"height":100},
+		{"id":"3141796f6432c46a","type":"text","text":"$$D<0$$ Saddle point","x":-440,"y":0,"width":160,"height":100}
+	],
+	"edges":[
+		{"id":"8af678bf3746cfc5","fromNode":"4e92e6e610b1bba8","fromSide":"bottom","toNode":"d92e55c79a91970e","toSide":"top"},
+		{"id":"5ebf9872ef778052","fromNode":"4e92e6e610b1bba8","fromSide":"bottom","toNode":"6bb50a236c8ad6e3","toSide":"top"}
+	]
+}

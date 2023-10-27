@@ -1,0 +1,1 @@
+- [[Interstate water disputes#Sutlej-Yamuna Link canal|Punjab BJP opposing SYL construction]] - national party units in states advocate for state interests, even when the other state is ruled by the same party.

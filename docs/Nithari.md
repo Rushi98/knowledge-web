@@ -1,0 +1,1 @@
+Allahabad HC acquitted two accused in the murder of 19+ children and women. The investigators failed to build a case with credible evidence. The two accused were tried based only on their purported confession. The investigators also missed on some critical angles.

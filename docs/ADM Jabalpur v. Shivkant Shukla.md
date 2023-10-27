@@ -1,0 +1,4 @@
+- 1976
+- Justice [[P. N. Bhagwati]] - a person's right to not be unlawfully detained (i.e. _habeas corpus_) can be suspended in the interest of the State.
+- Decision by 4:1, only Justice [[Hans Raj Khanna]] opposed.
+- Overruled by [[Justice K. S. Puttaswamy (Retd.) and Anr. vs Union Of India And Ors.]]

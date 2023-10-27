@@ -1,0 +1,11 @@
+- First Indian Women - INC President, Governor (UP, 1947)
+- the Nightingale of India - (poetry)
+	- The Golden Threshold
+	- The Bird of Time
+- alumnus - King's College, London
+- suffrage campaign in England
+- accompanied Gandhiji to [[Round Table Conference#Second]]
+- 1927 Founding member of [[All India Women's Conference]]
+- fellow of Royal Society of Literature
+# Civil Disobedience, 1930
+- appointed as new leader after Gandhi arrest

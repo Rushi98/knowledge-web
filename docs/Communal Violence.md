@@ -1,0 +1,2 @@
+- [Situation under control in Pusesawali village in Satara after communal violence; Internet remains shut](https://theprint.in/india/situation-under-control-in-pusesawali-village-in-satara-after-communal-violence-internet-remains-shut/1758340/)
+- 

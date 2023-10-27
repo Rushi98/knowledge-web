@@ -1,0 +1,2 @@
+- Democratised and competency-led capacity building
+- Unifying the efforts of structured, formal, and service-based training

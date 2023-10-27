@@ -1,0 +1,1 @@
+- An inclusive green economy is one that improves human **well-being** and builds social **equity** while reducing **environmental risks and scarcities**.
