@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"8a7479394d79f62e","type":"text","text":"Notes","x":-210,"y":-160,"width":110,"height":60},
+		{"id":"84591f2b66ad0ec0","type":"text","text":"Express in answers","x":-40,"y":-160,"width":250,"height":60},
+		{"id":"5c5a941ab4d2993b","type":"text","text":"Newspaper","x":-555,"y":-60,"width":148,"height":60},
+		{"id":"4ba3e0277ecb4e47","type":"text","text":"Model Answers","x":-407,"y":60,"width":182,"height":60},
+		{"id":"01d093a50ec0cdc9","type":"text","text":"Original Sources","x":-582,"y":-240,"width":175,"height":60},
+		{"id":"1f7b5cd3bb9166a4","type":"text","text":"Textbooks","x":-446,"y":-380,"width":130,"height":60},
+		{"id":"3ba6edb5fe36c8bd","x":280,"y":-160,"width":140,"height":60,"type":"text","text":"Feedback"}
+	],
+	"edges":[
+		{"id":"a81b08a6286c8f9d","fromNode":"01d093a50ec0cdc9","fromSide":"right","toNode":"8a7479394d79f62e","toSide":"left"},
+		{"id":"4e1c62a08836296a","fromNode":"5c5a941ab4d2993b","fromSide":"right","toNode":"8a7479394d79f62e","toSide":"left"},
+		{"id":"474b703af1bfe627","fromNode":"8a7479394d79f62e","fromSide":"right","toNode":"84591f2b66ad0ec0","toSide":"left"},
+		{"id":"5d69b35d83e6e1a1","fromNode":"4ba3e0277ecb4e47","fromSide":"right","toNode":"8a7479394d79f62e","toSide":"bottom"},
+		{"id":"34ac7876867c0f44","fromNode":"1f7b5cd3bb9166a4","fromSide":"right","toNode":"8a7479394d79f62e","toSide":"top"},
+		{"id":"39fccd4bd429230d","fromNode":"84591f2b66ad0ec0","fromSide":"right","toNode":"3ba6edb5fe36c8bd","toSide":"left"},
+		{"id":"024348c5640dc708","fromNode":"3ba6edb5fe36c8bd","fromSide":"top","toNode":"8a7479394d79f62e","toSide":"top"}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"692d5f9c5f2aaa94","x":-125,"y":-320,"width":250,"height":60,"type":"text","text":"Trustworthiness"},
+		{"id":"b66094935ea6ab7a","x":-125,"y":-440,"width":250,"height":60,"type":"text","text":"interpersonal relations"},
+		{"id":"8d1f9dc5cabdd44b","x":180,"y":-440,"width":250,"height":60,"type":"text","text":"representative democracy"},
+		{"id":"2c6ce1953536d51f","x":180,"y":-320,"width":250,"height":50,"type":"text","text":"international relations"},
+		{"id":"787c3ae49a6362de","x":-442,"y":-320,"width":250,"height":60,"type":"text","text":"governance"},
+		{"id":"7fa0fa0cda8a52c7","x":-442,"y":-440,"width":250,"height":60,"type":"text","text":"social cohesion"},
+		{"id":"6a77fd8f68424785","x":-567,"y":-200,"width":250,"height":60,"type":"text","text":"national interest - intelligence sharing"},
+		{"id":"88e2edf268f53294","x":-250,"y":-200,"width":250,"height":60,"type":"text","text":"public trust"}
+	],
+	"edges":[
+		{"id":"c1fc895bec0d7b0c","fromNode":"692d5f9c5f2aaa94","fromSide":"top","toNode":"7fa0fa0cda8a52c7","toSide":"bottom"},
+		{"id":"c3d87688b71fae22","fromNode":"692d5f9c5f2aaa94","fromSide":"top","toNode":"b66094935ea6ab7a","toSide":"bottom"},
+		{"id":"f0b9a3b55a28e244","fromNode":"692d5f9c5f2aaa94","fromSide":"top","toNode":"8d1f9dc5cabdd44b","toSide":"bottom"},
+		{"id":"ba94dd807806e7b4","fromNode":"692d5f9c5f2aaa94","fromSide":"right","toNode":"2c6ce1953536d51f","toSide":"left"},
+		{"id":"66085c95f1634430","fromNode":"692d5f9c5f2aaa94","fromSide":"left","toNode":"787c3ae49a6362de","toSide":"right"},
+		{"id":"56639b03501425a9","fromNode":"787c3ae49a6362de","fromSide":"bottom","toNode":"6a77fd8f68424785","toSide":"top"},
+		{"id":"c6247966a781cedc","fromNode":"787c3ae49a6362de","fromSide":"bottom","toNode":"88e2edf268f53294","toSide":"top"}
+	]
+}
